@@ -12,6 +12,7 @@
 - [Literature Workflow](https://www.youtube.com/watch?v=m-J-v0JdL3w&t=755s) from TallGuyJenkins
 # SMOCs
 - [[010 Meta/011 Attachments/011 Attachments\|011 Attachments]]
+- [[010 Meta/Organizational Philosophy\|Organizational Philosophy]]
 
 # Index
 
@@ -35,12 +36,16 @@
 	- [[010 Meta/000_new_metadata]]
 	- **[[010 Meta/011 Attachments/011 Attachments]]**
 	- [[010 Meta/Application backup]]
+	- **Attachments**
+
 	- [[010 Meta/Color Scheme and Design]]
+	- [[010 Meta/Curated Portal🔹🔸]]
 	- [[010 Meta/Formatting test]]
 	- [[010 Meta/Meta Dashboard]]
 	- [[010 Meta/Obsidian Commands]]
 	- [[010 Meta/Obsidian Plug ins]]
 	- [[010 Meta/Obsidian Programming]]
+	- [[010 Meta/Organizational Philosophy]]
 	- [[010 Meta/Quartz]]
 	- [[010 Meta/Reading Workflows]]
 	- [[010 Meta/Visualization Testing]]

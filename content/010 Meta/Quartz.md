@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-12T12:46:17.077-05:00","modified":"2025-09-12T23:29:32.811-05:00","cssclasses":""}
+{"publish":true,"created":"2025-09-12T12:46:17.077-05:00","modified":"2025-09-13T00:19:44.893-05:00","cssclasses":""}
 ---
 
 
@@ -10,3 +10,17 @@ The brilliant tool that allows this site to be possible.
 - [Sample](https://quartz.jzhao.xyz/#-get-started)
 
 We will have to see how this tools evolves as I use it a little more (or dont)
+
+
+### Themes
+I feel increasing committed to dark mode in all things, at all times, so having at least a dark mode option is essential for me. The rest is open for debate. 
+
+As far as i know there is only [one source](https://github.com/saberzero1/quartz-themes?tab=readme-ov-file#supported-themes)
+- [Apathia](https://quartz-themes.github.io/apatheia/syntax): dark dark
+- [Atom](https://quartz-themes.github.io/atom/syntax): a little boring blue, but tasteful
+- [Borealis](https://quartz-themes.github.io/borealis/syntax): dark green
+- [Buena Vista](https://quartz-themes.github.io/buena-vista/syntax): great visibility purple
+- [Dark Ember](https://quartz-themes.github.io/darkember/syntax): orangeeee
+- [Duality](https://quartz-themes.github.io/duality/syntax): Sexy Orange 
+- [Elegance](https://quartz-themes.github.io/elegance/syntax): pinkish, nice white mode
+- got down to garden gnome then got tired of looking. This is enough to keep me happy for a while.
