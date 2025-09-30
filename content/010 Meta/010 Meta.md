@@ -11,8 +11,8 @@
 # External information
 - [Literature Workflow](https://www.youtube.com/watch?v=m-J-v0JdL3w&t=755s) from TallGuyJenkins
 # SMOCs
-- [[010 Meta/011 Attachments/011 Attachments\|011 Attachments]]
 - [[010 Meta/Organizational Philosophy\|Organizational Philosophy]]
+- [[010 Meta/011 Attachments/011 Attachments\|011 Attachments]]
 
 # Index
 
@@ -35,6 +35,7 @@
 	- [[010 Meta/📐Tester]]
 	- [[010 Meta/000_new_metadata]]
 	- **[[010 Meta/011 Attachments/011 Attachments]]**
+	- [[010 Meta/A new base]]
 	- [[010 Meta/Application backup]]
 	- **Attachments**
 
