@@ -47,6 +47,7 @@
 	- [[050 Practical/Security Architecture]]
 	- [[050 Practical/Shoes]]
 	- [[050 Practical/Southern Tour]]
+	- [[050 Practical/Storage]]
 	- [[050 Practical/Vehicle information]]
 	- [[050 Practical/Vehicle Towing Information]]
 	- [[050 Practical/Words]]
