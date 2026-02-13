@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-09-12T12:46:17.077-05:00","modified":"2025-09-13T00:19:44.893-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-10-01T01:46:32.000-05:00
+cssclasses: ""
 ---
 
 
@@ -24,3 +27,5 @@ As far as i know there is only [one source](https://github.com/saberzero1/quartz
 - [Duality](https://quartz-themes.github.io/duality/syntax): Sexy Orange 
 - [Elegance](https://quartz-themes.github.io/elegance/syntax): pinkish, nice white mode
 - got down to garden gnome then got tired of looking. This is enough to keep me happy for a while.
+
+Make changes in the `.github/??/deploy.yaml` to the `THEME_VARIABLE` setting

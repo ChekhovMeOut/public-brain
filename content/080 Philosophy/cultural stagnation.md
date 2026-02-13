@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-03T01:09:07.362-05:00","modified":"2025-09-12T23:52:59.277-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-09-12T23:52:59.000-05:00
+cssclasses: ""
 ---
 
 Article in New Republic by Aaron Timms

@@ -1,5 +1,10 @@
 ---
-{"publish":true,"created":"2025-03-04T10:49:46.000-06:00","modified":"2025/09/12 23:52","tags":["MOC"],"cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025/09/12 23:52
+tags:
+  - MOC
+cssclasses: ""
 ---
 
 ---
@@ -15,6 +20,7 @@
 
 - **[[080 Philosophy/080 Philosophy]]**
 	- **[[080 Philosophy/081 Politics/081 Politics]]**
+	- [[080 Philosophy/a bunch of problems]]
 	- [[080 Philosophy/Against longtermism]]
 	- [[080 Philosophy/AI Thots]]
 	- [[080 Philosophy/Anti-fat bias or Fatphobia]]
@@ -38,6 +44,7 @@
 	- [[080 Philosophy/Starting points for reading about God]]
 	- [[080 Philosophy/The Boobie Situation]]
 	- [[080 Philosophy/The Emperor Has No Clothes]]
+	- [[080 Philosophy/this is water]]
 	- [[080 Philosophy/Thoughts on a partner's weight]]
 	- [[080 Philosophy/Time Capsule]]
 	- [[080 Philosophy/who does the forgiving]]

@@ -1,5 +1,15 @@
 ---
-{"publish":true,"aliases":"cheuvrontFluidReplacementPerformance2007 Fluid Replacement and Performance During the Marathon Fluid Replacement and Performance During the Marathon:","created":"2025-06-12T23:04:08.227-05:00","modified":"2025/09/29 00:43","tags":["p","a","p","e","r"],"cssclasses":""}
+publish: true
+aliases: "cheuvrontFluidReplacementPerformance2007 Fluid Replacement and Performance During the Marathon Fluid Replacement and Performance During the Marathon:"
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025/09/29 00:43
+tags:
+  - p
+  - a
+  - p
+  - e
+  - r
+cssclasses: ""
 ---
 
 # Basic Information

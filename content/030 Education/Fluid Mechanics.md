@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-05-20T11:57:55.000-05:00","modified":"2025-09-12T23:38:22.724-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-09-12T23:38:22.000-05:00
+cssclasses: ""
 ---
 
 ### Reynolds

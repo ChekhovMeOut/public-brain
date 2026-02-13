@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-03-24T17:15:44.000-05:00","modified":"2025-09-12T23:38:16.599-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-09-12T23:38:16.000-05:00
+cssclasses: ""
 ---
 
 - [Deposition](https://news.skhynix.com/semiconductor-front-end-process-episode-5/)

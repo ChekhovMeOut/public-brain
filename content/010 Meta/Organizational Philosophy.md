@@ -1,19 +1,14 @@
 ---
-{"publish":true,"created":"2025-09-28T13:06:31.311-05:00","modified":"2025-09-28T13:18:10.892-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2026-01-14T01:12:02.997-06:00
+cssclasses: ""
 ---
 
-## What this is
-- I want this to be the top level document which ^38e548
-	1. connects to all Sub MOCs, active or not
-	2. explains prevailing organizational structure
-## What this is not
-- A running analysis of how the organizational structure is working
-- A dumping ground for unclassified material
+> [!system] 
+> This should be a guide on how to navigate my vault by explaining the organization structure.
+> It should not be a meta analysis or dumping ground for material.  
 ## Structure
-
-> [!system] When In Doubt
-> MOC links should be the primary method of categorizing content
-
 - Folders
 	- The broadest and coarsest categorization of information. 
 	- Top level folders use name schema: xxx {category}
@@ -23,6 +18,17 @@
 	- These link to materials directly or Sub Map Of Content #SMOC 's 
 		- Nesting SMOCs is acceptable
 - Tags
-	- Are used sparingly, primarily in templates such as #key 
-	- Can be subcategorized as desired, such as  #Key/example/subexample
-	- Do not use more than three Key tags for any file 
+	- Are used sparingly, primarily in templates such as #status
+	- Can be subcategorized as desired, such as  #status/denied/round0 
+## Conventions
+- Icons in titles
+	- 📐 = Template
+	- 🥀 = Obsolete
+- Title Codes
+	- ACT = Activity
+	- AP = Application
+	- BOK = Book
+	- CL = Cover Letter
+	- DN = Daily Note
+	- IN = Interview
+	- MT = Meeting

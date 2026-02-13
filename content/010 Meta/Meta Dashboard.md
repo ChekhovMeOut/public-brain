@@ -1,20 +1,36 @@
 ---
-{"publish":true,"created":"2025-05-27T18:18:28.000-05:00","modified":"2025-09-12T23:28:37.217-05:00","cssclasses":""}
+publish: true
+created: 2026-02-12
+modified: 2026/02/12 22:41
+cssclasses: ""
 ---
 
-
+oh boy i haven't touched this in a minute
 # Modification pace
-Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19035:16)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at tryExecuteJs (plugin:quartz-syncer:19764:15)
-    at eval (plugin:quartz-syncer:19678:38)
-    at eval (plugin:quartz-syncer:20146:54)mermaid\n" + 
+```dataviewjs
+var mom = moment(Date.now()).subtract(24, "months").format('yyyy-MM-DD HH:mm')
+var count_max = 1
+
+let l1 = dv.pages("")
+let l2 = l1.where(t => t.Created && moment(t.Modified).format('yyyy-MM-DD HH:mm') > mom)
+let l3 = l2.groupBy(t => moment(t.Modified).format('YY-MM'))
+let time = l3.key
+
+let count = [];
+count.length = l3.values.length;
+for (let i = 0; i < count.length; i++) {
+	count[i] = l2.where(t => t.Modified && moment(t.Modified).format('YY-MM') == l3.key[i]).length;
+	if (count[i] > count_max) {
+		count_max = count[i]
+		}
+}
+
+//let l4 = await dv.query('TABLE WITHOUT ID length(rows) as Count FROM #application WHERE (file.ctime >= (date(today) - dur(12 week))) GROUP BY dateformat(file.ctime, "DD") as Day SORT Day DESC')
+//let cunt = l4.Count
+//let tune = l4.Value
+//console.log(dv.array(count))
+
+dv.paragraph("```mermaid\n" + 
 `---
 config:
     xyChart:
@@ -35,17 +51,30 @@ xychart-beta
 ```
 # Creation pace
 
-Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19035:16)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at tryExecuteJs (plugin:quartz-syncer:19764:15)
-    at eval (plugin:quartz-syncer:19678:38)
-    at async eval (plugin:quartz-syncer:20146:26)mermaid\n" + 
+```dataviewjs
+var mom = moment(Date.now()).subtract(24, "months").format('yyyy-MM-DD HH:mm')
+var count_max = 1
+
+let l1 = dv.pages("")
+let l2 = l1.where(t => t.Created && moment(t.Created).format('yyyy-MM-DD HH:mm') > mom)
+let l3 = l2.groupBy(t => moment(t.Created).format('YY-MM'))
+let time = l3.key
+
+let count = [];
+count.length = l3.values.length;
+for (let i = 0; i < count.length; i++) {
+	count[i] = l2.where(t => t.Created && moment(t.Created).format('YY-MM') == l3.key[i]).length;
+	if (count[i] > count_max) {
+		count_max = count[i]
+		}
+}
+
+//let l4 = await dv.query('TABLE WITHOUT ID length(rows) as Count FROM #application WHERE (file.ctime >= (date(today) - dur(12 week))) GROUP BY dateformat(file.ctime, "DD") as Day SORT Day DESC')
+//let cunt = l4.Count
+//let tune = l4.Value
+//console.log(dv.array(count))
+
+dv.paragraph("```mermaid\n" + 
 `---
 config:
     xyChart:

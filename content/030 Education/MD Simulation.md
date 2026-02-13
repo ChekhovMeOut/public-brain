@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-03-04T10:49:46.000-06:00","modified":"2025-09-12T23:38:58.950-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-09-12T23:38:58.000-05:00
+cssclasses: ""
 ---
 
 Practical notes derived from the theorem of [[030 Education/Molecular Dynamics]]

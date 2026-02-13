@@ -1,5 +1,10 @@
 ---
-{"publish":true,"created":"2025-03-04T10:49:46.000-06:00","modified":"2025/09/12 23:41","tags":["MOC"],"cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025/10/11 09:11
+tags:
+  - MOC
+cssclasses: ""
 ---
 
 
@@ -27,17 +32,20 @@
 
 - **[[050 Practical/050 Practical]]**
 	- **[[050 Practical/051 Temporal Notes/051 Temporal Notes]]**
-	- [[050 Practical/AI Promps]]
+	- [[050 Practical/AI Prompts]]
 	- [[050 Practical/Alabama Housing Options]]
 	- [[050 Practical/Alabama Relocation]]
 	- [[050 Practical/Ambitions and Goals]]
 	- [[050 Practical/Drafting space]]
 	- [[050 Practical/Email Architecture]]
+	- [[050 Practical/Expense log]]
 	- [[050 Practical/Gifting]]
 	- [[050 Practical/Housing tour]]
 	- [[050 Practical/Hypothetical Relocation 2]]
 	- [[050 Practical/Kids Names]]
+	- [[050 Practical/Letter to Gary]]
 	- [[050 Practical/Life Hacks and Lessons]]
+	- [[050 Practical/Linux Shortcuts]]
 	- [[050 Practical/Mailrooms]]
 	- [[050 Practical/Packing Checklist]]
 	- [[050 Practical/Painting sizes]]
@@ -48,6 +56,7 @@
 	- [[050 Practical/Shoes]]
 	- [[050 Practical/Southern Tour]]
 	- [[050 Practical/Storage]]
+	- [[050 Practical/Things in Ameya’s house]]
 	- [[050 Practical/Vehicle information]]
 	- [[050 Practical/Vehicle Towing Information]]
 	- [[050 Practical/Words]]

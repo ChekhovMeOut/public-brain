@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-04T13:21:57.025-05:00","modified":"2025-09-12T23:52:28.928-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-09-12T23:52:28.000-05:00
+cssclasses: ""
 ---
 
 Commonly cited finding that people who are religious tend to live longer and experience other health benefits over other demographics. 

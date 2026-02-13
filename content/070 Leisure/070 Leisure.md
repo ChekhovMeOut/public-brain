@@ -1,5 +1,10 @@
 ---
-{"publish":true,"created":"2025-03-04T10:49:46.000-06:00","modified":"2025/09/12 23:47","tags":["MOC"],"cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025/09/12 23:47
+tags:
+  - MOC
+cssclasses: ""
 ---
 
 
@@ -19,10 +24,12 @@
 	- [[070 Leisure/Casual Quotes]]
 	- [[070 Leisure/Clothing Brands]]
 	- [[070 Leisure/Comedy]]
+	- [[070 Leisure/Fragrance]]
 	- [[070 Leisure/Game Notes]]
 	- [[070 Leisure/Halloween Costumes]]
 	- [[070 Leisure/Iconography]]
 	- [[070 Leisure/Keyboard Customization]]
+	- [[070 Leisure/Magazines n shit]]
 	- [[070 Leisure/Magic]]
 	- [[070 Leisure/MonkeyType]]
 	- [[070 Leisure/Mossarium]]

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-06-17T19:18:48.939-05:00","modified":"2025-09-12T23:39:15.341-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-09-12T23:39:15.000-05:00
+cssclasses: ""
 ---
 
 *For now this is going to be mostly focused on Nylon*

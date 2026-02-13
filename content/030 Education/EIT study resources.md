@@ -1,7 +1,11 @@
 ---
-{"publish":true,"created":"2025-03-30T10:38:41.000-05:00","modified":"2025-09-12T23:38:02.178-05:00","cssclasses":""}
+publish: true
+created: 2026-01-10T16:55:20-06:00
+modified: 2026-01-16T01:12:18-06:00
+cssclasses: ""
 ---
 
+License number: EI51353
 
 https://education.ti.com/html/eguides/scientifics/EN/TI-36X-Pro-guidebook-en.html
 

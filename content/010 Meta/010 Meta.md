@@ -1,5 +1,10 @@
 ---
-{"publish":true,"created":"2025-03-04T10:49:45.000-06:00","modified":"2025/09/12 23:28","tags":["#MOC"],"cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025/09/12 23:28
+tags:
+  - "#MOC"
+cssclasses: ""
 ---
 
 
@@ -17,6 +22,10 @@
 # Index
 
 - **[[010 Meta/010 Meta]]**
+	- **[[010 Meta/011 Attachments/011 Attachments]]**
+	- [[💾Random Notes.base|💾Random Notes]]
+	- [[💾Utilities.base|💾Utilities]]
+	- [[010 Meta/📐 Podcasts]]
 	- [[010 Meta/📐Application Docs]]
 	- [[010 Meta/📐Application]]
 	- [[010 Meta/📐Book]]
@@ -34,17 +43,11 @@
 	- [[010 Meta/📐Strava]]
 	- [[010 Meta/📐Tester]]
 	- [[010 Meta/000_new_metadata]]
-	- **[[010 Meta/011 Attachments/011 Attachments]]**
-	- [[010 Meta/A new base]]
-	- [[010 Meta/Application backup]]
-	- **Attachments**
-
 	- [[010 Meta/Color Scheme and Design]]
 	- [[010 Meta/Curated Portal🔹🔸]]
 	- [[010 Meta/Formatting test]]
 	- [[010 Meta/Meta Dashboard]]
 	- [[010 Meta/Obsidian Commands]]
-	- [[010 Meta/Obsidian Plug ins]]
 	- [[010 Meta/Obsidian Programming]]
 	- [[010 Meta/Organizational Philosophy]]
 	- [[010 Meta/Quartz]]

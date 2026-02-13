@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-09-28T13:02:45.775-05:00","modified":"2025-09-30T10:56:38.758-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2026-01-24T22:01:19.220-06:00
+cssclasses: ""
 ---
 
 
@@ -10,4 +13,4 @@
 
 # Ride the Random Bus
 *The static site generator I'm using doesn't support this kind of dynamic content (easily). So it's random at the point of commit*
-![[Random Notes.base]]
+![[💾Random Notes.base]]

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-03-04T10:49:46.000-06:00","modified":"2025-09-12T23:30:59.921-05:00","cssclasses":""}
+publish: true
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2025-09-12T23:30:59.000-05:00
+cssclasses: ""
 ---
 
 The decision seems to be between (attempt to) 'Do' or 'Don't do' a PhD. That's at least the real-world gating action that i need to complete. The more precise question i need to answer is "do i want to do a PhD". 

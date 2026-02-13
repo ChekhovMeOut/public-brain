@@ -1,8 +1,16 @@
 ---
-{"publish":true,"created":"2025-06-18T10:06:47.000-05:00","modified":"2025-09-12T23:40:20.565-05:00","cssclasses":""}
+publish: true
+created: 2026-01-21T10:56:35-06:00
+modified: 2026-01-21T11:01:20-06:00
+cssclasses: ""
 ---
 
 
+
+## Various Hazards
+- Corrosives
+	- Strong acids or bases can be corrosive BC ripping away or shoving on electrons can cause metal dissolution. 
+	- You add the strong acid or base to the diluent (usually water) because the resulting splash will never be that concentrated. And it generates less heat per unit mixed. 
 ## HAZOP
 - Fully qualitative risk assessment
 
