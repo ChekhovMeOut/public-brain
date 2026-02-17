@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "ianwiatric.com/public-brain",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "Modified",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
