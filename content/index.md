@@ -1,32 +1,30 @@
 ---
 publish: true
 created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-02-16T21:46:08.334-06:00
+modified: 2026-02-16T22:18:28.153-06:00
 cssclasses: ""
 ---
 
+# Welcome
 
-# Welcome to My Public Brain
+to the public lobe of my digital brain. 
 
-This is my digital garden—a collection of interconnected notes, ideas, and thoughts that I'm cultivating in public. Unlike a traditional blog with polished, finished posts, this is a living workspace where ideas grow and evolve over time.
+There are many articles on [describing the concept](https://fortelabs.com/blog/basboverview/) in general. For me, this is my attempt to overcome the natural limits of memory, provide a historical insight into how I was thinking, and take an efficient approach to managing the monsoon of information the modern world asks us to contend with. 
 
-## What You'll Find Here
+All notes represent my ongoing explorations in various areas of interest. However they will have wildly different characteristics from functional to artistic to principled. They also differ in their maturity: some are fully developed while others are just seedlings. 
 
-These notes represent my ongoing explorations in various areas of interest. Some are mature and well-developed, others are seedlings just beginning to sprout. They're all connected in ways that reflect how I think and learn.
+So you'll find incomplete thoughts, questions without answers, and —heaven forbid— incorrect grammar. That's okay. This is a space for thinking in public, not a showcase of finished work. But I'm happy striving to separate the signal from the noise, and I hope you enjoy wandering with me. 
+# Navigation
 
-## How to Navigate
-
+## Tips
 - **Explore the graph**: Use the graph view to see how ideas connect
-- **Browse by topic**: Check the explorer sidebar for organized content
-- **Search**: Use the search bar to find specific notes
-- **Follow links**: Click through connections to discover related ideas
-[[000/000 Guide]]
+- **Browse by topic**: Check the explorer sidebar to move via directories
+- **Follow links**: Click through [[010 Meta/Organizational Philosophy\|links]] to discover related ideas
+- **Search**: Use the search bar to find specific notes 
+- **Filter tags:** Click a #tag wherever it appears to find other uses
 
-## A Note on Work-in-Progress
+## Methods 
 
-You'll find incomplete thoughts, questions without answers, and ideas still taking shape. That's intentional. This is a space for thinking in public, not a showcase of finished work.
+I personally use the unceremonious yet effective [[000/000 Guide]] to navigate on my day-to-day. 
 
-Feel free to wander, explore, and discover unexpected connections.
-
-
-![[000/000 Guide]]
+I made a small tree called [[010 Meta/Curated Portal🔹🔸]] to get you started down the rabbit hole, Alice. 
