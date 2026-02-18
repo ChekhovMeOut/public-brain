@@ -96,7 +96,7 @@ WHERE contains(file.folder,this.file.folder)
 	- [[030 Education/Santos Research]]
 	- [[030 Education/Sequence Information]]
 	- [[030 Education/SPC Notes]]
-	- [[030 Education/Static Site Generators]]
+	- [[030 Education/Static Site Generator]]
 	- [[030 Education/Trajectory Analysis]]
 
 

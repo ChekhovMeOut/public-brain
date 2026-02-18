@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-02-16T22:18:28.153-06:00
+modified: 2026-02-17T20:28:40.684-06:00
 cssclasses: ""
 ---
 
@@ -21,10 +21,11 @@ So you'll find incomplete thoughts, questions without answers, and —heaven for
 - **Browse by topic**: Check the explorer sidebar to move via directories
 - **Follow links**: Click through [[010 Meta/Organizational Philosophy\|links]] to discover related ideas
 - **Search**: Use the search bar to find specific notes 
-- **Filter tags:** Click a #tag wherever it appears to find other uses
+- **Filter tags:** Click tags wherever they appears to find other uses like #book
 
 ## Methods 
 
 I personally use the unceremonious yet effective [[000/000 Guide]] to navigate on my day-to-day. 
 
-I made a small tree called [[010 Meta/Curated Portal🔹🔸]] to get you started down the rabbit hole, Alice. 
+I made a small tree called [[010 Meta/The Walled Garden🌴]] to get you started down the rabbit hole, Alice. 
+# 

@@ -46,7 +46,6 @@ WHERE contains(file.folder,this.file.folder)
 	- [[010 Meta/📐Tester]]
 	- [[010 Meta/000_new_metadata]]
 	- [[010 Meta/Color Scheme and Design]]
-	- [[010 Meta/Curated Portal🔹🔸]]
 	- [[010 Meta/Formatting test]]
 	- [[010 Meta/Meta Dashboard]]
 	- [[010 Meta/Obsidian Commands]]
@@ -54,5 +53,6 @@ WHERE contains(file.folder,this.file.folder)
 	- [[010 Meta/Organizational Philosophy]]
 	- [[010 Meta/Quartz]]
 	- [[010 Meta/Reading Workflows]]
+	- [[010 Meta/The Walled Garden🌴]]
 	- [[010 Meta/Visualization Testing]]
 

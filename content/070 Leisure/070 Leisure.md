@@ -46,7 +46,7 @@ WHERE contains(file.folder,this.file.folder)
 	- [[070 Leisure/The Plant Plan]]
 	- [[070 Leisure/Tinder Shit]]
 	- [[070 Leisure/Travel Recommendations]]
-	- [[070 Leisure/Typing as a hobby]]
 	- [[070 Leisure/Unique words]]
 	- [[070 Leisure/Username Ideas]]
+	- [[070 Leisure/what's your type]]
 
